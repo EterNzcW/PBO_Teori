@@ -1,16 +1,15 @@
+
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package pboteori;
+package modul6;
 
 /**
  *
  * @author acer2
  */
-public class FarigMuhammadTaqy {
-    public static void main(String[] args ){
-       System.out.println("Welcome To Java Programming Farig Muhammad Taqy!!!");
-       
-   }
+public class GradeJOption {
+    
 }
+

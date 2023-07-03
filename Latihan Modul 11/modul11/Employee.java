@@ -2,15 +2,17 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package pboteori;
+package modul11;
 
 /**
  *
  * @author acer2
  */
-public class FarigMuhammadTaqy {
-    public static void main(String[] args ){
-       System.out.println("Welcome To Java Programming Farig Muhammad Taqy!!!");
-       
-   }
+public class Employee extends Person {
+    
+    @Override
+    public String getName(){
+    System.out.println("Employee Name:" + name);
+    return name;
+    }
 }
